@@ -2,7 +2,7 @@
 
 1. Get Termux from the official GitHub or F-Droid releases (NOT Play Store!)
 2. Install git using `pkg install git`
-3. Clone this repository using `git clone https://github.com/StickBrush/AndroidDockerEasy`
+3. Clone this repository using `git clone https://github.com/StickBrush/PADECAndroidDocker`
 4. `cd AndroidDockerEasy`
 5. `chmod +x install.sh bootup.sh`
 6. `./install.sh`. This will open install the required software for the Alpine VM.
