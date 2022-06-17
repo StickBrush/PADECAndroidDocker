@@ -1,7 +1,7 @@
 # How to have Docker running on Android (rootless!)
 
 1. Get Termux from the official GitHub or F-Droid releases (NOT Play Store!)
-2. Install Git LFS using `pkg install git-lfs`
+2. Install Git LFS using `pkg install git-lfs && git lfs install`
 3. Clone this repository using `git lfs clone https://github.com/StickBrush/PADECAndroidDocker`
 4. `cd PADECAndroidDocker` 
 5. `chmod +x install.sh bootup.sh`
